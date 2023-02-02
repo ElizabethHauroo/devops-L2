@@ -1,0 +1,15 @@
+#!/bin/bash
+
+mkdir folder_1
+
+cd folder_1
+
+touch file_1.txt file_2.txt file_3.txt
+
+cd.. 
+
+mkdir folder_2
+
+cd folder_2
+
+touch file2_1.txt file2_2.txt file2_3.txt
