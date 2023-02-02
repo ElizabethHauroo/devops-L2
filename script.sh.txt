@@ -13,3 +13,5 @@ mkdir folder_2
 cd folder_2
 
 touch file2_1.txt file2_2.txt file2_3.txt
+
+echo "Job Completed!"
